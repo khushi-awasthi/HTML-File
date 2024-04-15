@@ -1,0 +1,7 @@
+development--->
+website-->a page where static content available.
+web application-- dynamic nature
+3 types layers in web application--
+frontend
+backend 
+database
